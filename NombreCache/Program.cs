@@ -28,7 +28,7 @@ namespace NombreCache
                 {
                     Console.WriteLine("Erreur de saisie : saisissez une nombre entier");
                 }
-            }
+            } 
             Console.Clear();
             // saisie du premier essai
             correct = false;
